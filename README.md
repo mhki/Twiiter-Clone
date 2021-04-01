@@ -1,5 +1,6 @@
 # Twitter-Clone
  Learning Laravel by implementing the bare essentials for a Twitter Clone
+ 
  ~A visitor, can see a list of tweets 
  ~A tweeter, can send a tweet
  ~Tweeters, can follow each other
