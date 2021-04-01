@@ -13,4 +13,4 @@
  
  ~A tweeter, can update a tweet in case the tweeter mispelled it
  
- ~A tweeter, can delete a tweet 
+ ~A tweeter, can delete a tweet.
